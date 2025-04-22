@@ -1,0 +1,8 @@
+node_modules
+.env
+
+# Mengabaikan semua file dan folder
+/*
+
+# Tetapi tidak mengabaikan folder week3
+!/week3/
